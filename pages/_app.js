@@ -1,4 +1,4 @@
-import { Analytics } from "@vercel/analytics/react";
+import { Analytics } from "@vercel/analytics";
 
 export default function MyApp({ Component, pageProps }) {
   return (
